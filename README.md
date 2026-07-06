@@ -6,9 +6,9 @@
 
 ## 🌍 Live Demo
 
-🔗 **Live Website:** [https://your-vercel-link.vercel.app](https://sky-cast-weather-app-ashen.vercel.app/)
+🔗 **Live Website:** [https://sky-cast-weather-app-ashen.vercel.app/](https://sky-cast-weather-app-ashen.vercel.app/)
 
-🔗 **Source Code:** [https://github.com/yourusern/skycast](https://github.com/aspirant-22/SkyCast-Weather-App-)
+🔗 **Source Code:** [https://github.com/aspirant-22/SkyCast-Weather-App-](https://github.com/aspirant-22/SkyCast-Weather-App-)
 
 ---
 
