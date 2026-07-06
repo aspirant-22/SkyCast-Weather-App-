@@ -119,7 +119,7 @@ npm install
 ### Create a `.env` file in the root directory
 
 ```env
-VITE_WEATHER_API_KEY=YOUR_API_KEY
+VITE_API_KEY=YOUR_API_KEY
 ```
 
 ### Start the development server
@@ -141,7 +141,7 @@ http://localhost:5173
 Create a `.env` file in the root directory.
 
 ```env
-VITE_WEATHER_API_KEY=YOUR_API_KEY
+VITE_API_KEY=YOUR_API_KEY
 ```
 
 > **Note:** Never commit your API key to GitHub.
@@ -239,7 +239,7 @@ git push origin feature-name
 **Garima Mittal**
 
 - **GitHub:** https://github.com/aspirant-22
-- **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/garima-mittal-2a86732a9)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/garima-mittal-2a86732a9)
 
 ---
 
